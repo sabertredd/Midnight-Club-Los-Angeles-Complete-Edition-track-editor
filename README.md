@@ -77,7 +77,3 @@ The key is then kept in `mcla_rpf_key.txt` next to the program. Do not share tha
 
 This is a fan project, not affiliated with or endorsed by Rockstar Games or Take-Two Interactive. *Midnight Club* is
 their trademark. The tools contain no game content. Do not distribute game files, audio or keys made with them.
-
-## License
-
-See `LICENSE` (to be chosen by the author before publishing).
